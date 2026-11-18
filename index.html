@@ -1,0 +1,62 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+        <h1 id="main-title">Hirvakumari Chauhan</h1>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+            <button id="theme-toggle">Dark Mode</button>
+        </nav>
+    </header>
+    <section id="about" class="card">
+        <h2>About Me</h2>
+        <p>Hello! I am a B.Tech (CSE) student passionate about web development and programming. 
+            Welcome to my personal portfolio.</p>
+    </section>
+    <section id="skills" class="card">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5 & CSS3</li>
+            <li>JavaScript Basics</li>
+            <li>C / Python Programming</li>
+            <li>Git & GitHub</li>
+        </ul>
+    </section>
+    <section id="projects" class="card">
+        <h2>Projects</h2>
+        <div class="project-item">
+            <h3>1.Student Registration Form</h3>
+            <p>A responsive HTML form with built-in input validation created during my Web Technology lab.</p>
+        </div>
+        <div class="project-item">
+            <h3>2.Personal Portfolio Website</h3>
+            <p>A clean, mobile-friendly portfolio built from scratch using HTML, CSS, and JavaScript.</p>
+        </div>
+    </section>
+    <section id="contact" class="card">
+        <h2>Contact Me</h2>
+        <form id="contact-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" placeholder="Enter your name">
+            <label for="email">Email:</label>
+            <input type="email" id="email" placeholder="Enter your email">
+            <label for="message">Message:</label>
+            <textarea id="message" rows="4" placeholder="Write your message..."></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+        <p id="form-status"></p>
+    </section>
+    <footer>
+        <p>&copy; 2026 Hirvakumari Chauhan. All rights reserved.</p>
+    </footer>
+    <script src="script.js"> </script>
+</body>
+</html>
