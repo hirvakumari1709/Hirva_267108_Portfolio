@@ -8,21 +8,9 @@ This is my personal portfolio website built for my Web Technology assessment. It
 * JavaScript (DOM manipulation & form validation)
 
 ## Portfolio Screenshots
-
-### Home & About Section & Light Mode
-![Home Screenshot](screenshot1.png)
-
-### Skills & Projects Section & Light Mode
-![Projects Screenshot](screenshot2.png)
-
-### Contact Section & Light Mode
-![Contact Screenshot](screenshot3.png)
-
-### Home & About Section & Dark Mode
-![Home Screenshot](screenshot4.png)
-
-### Skills & Projects Section & Dark Mode
-![Projects Screenshot](screenshot5.png)
-
-### Contact Section & Dark Mode
-![Contact Screenshot](screenshot6.png)
+![Home Screenshot](screenshot1.png.png)
+![Projects Screenshot](screenshot2.png.png)
+![Contact Screenshot](screenshot3.png.png)
+![Screenshot 4](screenshot4.png.png)
+![Screenshot 5](screenshot5.png.png)
+![Screenshot 6](screenshot6.png.png)
